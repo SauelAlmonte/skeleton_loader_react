@@ -7,7 +7,6 @@
   Your browser does not support the video tag.
 </video>
 
-</video>
 
 To view the component in action please click -> [Demo](https://skeleton-loader-react.vercel.app/)
 
