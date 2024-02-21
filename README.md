@@ -6,8 +6,6 @@
 
 To view the component in action, please click [here](https://skeleton-loader-react.vercel.app/).
 
-I created a skeleton loader using React + Vite.
-
 ## Vite
 
 Vite is a build tool that aims to provide a fast development experience for modern web projects. It focuses on near-instantaneous cold server start, fast hot module replacement (HMR), and lightning-fast bundling. Vite achieves this speed by leveraging native ES module imports in the browser, which eliminates the need for bundling during development.
