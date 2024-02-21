@@ -2,12 +2,8 @@
 
 ### Demo
 
-<video width="320" height="240" controls>
-  <source src="./src/assets/media/skeleton_loader.mov" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Alt Text](./src/assets/media/skeleton_loader.gif)
 
-</video>
 
 To view the component in action please click -> [Demo](https://skeleton-loader-react.vercel.app/)
 
